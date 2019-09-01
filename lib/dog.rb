@@ -6,4 +6,5 @@ class Dog
   
   def sit 
     puts " The God is sitting"
+  end
 end 
